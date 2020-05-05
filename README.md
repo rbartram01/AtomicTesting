@@ -1,2 +1,2 @@
-# AtomiicTesting
+# AtomicTesting
 Acceptance Test Driven Automation
